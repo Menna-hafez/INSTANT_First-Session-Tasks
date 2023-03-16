@@ -5,7 +5,7 @@ INSTANT_First Session Task 01
 Expert Systems:
 * It is a program that mimics the decision-making abilities of a human expert in a particular field.
 * It works by a set of pre-programmed rules and a knowledge base to make decisions.
-* 
+
 Robotics (Chatbots):
 * It is a machines that can perform tasks by following pre-programmed instructions or by responding to sensor inputs
 * Example: Answer questions or assist people.
